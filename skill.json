@@ -1,0 +1,15 @@
+{
+  "name": "genpark-function-call-parameter-type-sanitizer-skill",
+  "version": "1.0.0",
+  "description": "Runtime parameter type sanitizer, string-to-numeric casting, and boundary constraint validator for LLM tool dispatch.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "type-casting",
+    "parameter-sanitizer",
+    "function-calling",
+    "validation",
+    "genpark",
+    "mcp"
+  ]
+}
